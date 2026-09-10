@@ -1,2 +1,2 @@
 # Moncher live fixture
-Synthetic system write.
+Synthetic recovered write.
